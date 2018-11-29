@@ -32,6 +32,6 @@ alert(string)
 ----
 ## nodeJs 脚本
 - 作用和上面一致
-- 实现方式： ```node ~/local/nodeJsScript zzz```
+- 实现方式： ```node ~/local/nodeJsScript zzz```  ，或者更简便的方式```~/local/nodeJsScrip zzz``` (window用户不一定可用)
 
 

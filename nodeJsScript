@@ -1,4 +1,5 @@
- var fs = require('fs')
+#!/usr/bin/env node 
+var fs = require('fs')
 
  var dirName = process.argv[2] // 你传的参数是从第 2 个开始的
 
