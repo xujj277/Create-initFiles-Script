@@ -1,8 +1,10 @@
-# Create-initFiles-Script
+# Create-initFiles-Script   (bash && nodeJs)
+
+## bash脚本
 
 - 脚本作用： 创建初始的html、css和js文件
 
-- 实现方式： demo.sh xxx 可在当前目录下生成目录 xxx，demo.sh yyy 可生成目录 yyy
+- 实现方式： ```demo.sh xxx ```可在当前目录下生成目录 xxx，```demo.sh yyy ```可生成目录 yyy
 
 - 生成的目录结构如下：
 ```
@@ -27,5 +29,9 @@ h1{color: red;}
 var string = "Hello World"
 alert(string)
 ```
+----
+## nodeJs 脚本
+- 作用和上面一致
+- 实现方式： ```node ~/local/nodeJsScript zzz```
 
 
